@@ -1,6 +1,6 @@
 # Drill Bit Tray Model
 
-![](model-screenshot.png)
+![Screenshot of model in Tinkercad](model-screenshot.png)
 
 # Introduction
 
@@ -10,6 +10,6 @@ The tray was custom-designed using [Tinkercad](https://www.tinkercad.com), a fre
 
 # Photos
 
-![](printed-tray.jpg)
+![Photo of 3D-printed tray](printed-tray.jpg)
 
-![](printed-tray-with-bits.jpg)
+![Photo of 3D-printed tray containing drill bits](printed-tray-with-bits.jpg)
